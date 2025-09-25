@@ -1,0 +1,9 @@
+{
+	"name": "tusharnagrare-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "78b2326a-9f42-4dfe-b550-73315984c6a9",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
